@@ -3,3 +3,5 @@
 To find out more, refer to GitHub documentation [about Projects]
 (https://docs.github.com/issues/planning-and-tracking-with-projects/learning-about-
 projects/about-projects).
+
+This change was made using terminal
